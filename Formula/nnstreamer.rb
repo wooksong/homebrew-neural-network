@@ -12,7 +12,7 @@ class Nnstreamer < Formula
   depends_on "googletest" => :build
   depends_on "ssat" => :build
   depends_on "protobuf"
-  depends_on "libtensorflow"
+  depends_on "libtensorflow@1"
   depends_on "libffi"
   depends_on "glib"
   depends_on "gstreamer"
