@@ -1,7 +1,7 @@
 class Nnstreamer < Formula
   desc "Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices."
-  homepage "https://github.com/nnsuite/nnstreamer"
-  url "https://github.com/nnsuite/nnstreamer/archive/c110844c31bd0fb4eb0a8cf6ac8bf969c81db397.tar.gz"
+  homepage "https://github.com/nnstreamer/nnstreamer"
+  url "https://github.com/nnstreamer/nnstreamer/archive/c110844c31bd0fb4eb0a8cf6ac8bf969c81db397.tar.gz"
   version "1.0.0"
   sha256 "d4397a77a18fc0d881b2aff4fdf68e251ccea7ca84d8a765c52eee0df1cd7e76"
   depends_on :macos
